@@ -36,8 +36,8 @@ At **Koleth Software**, we believe in the power of automation to solve real-worl
 
 ### 📈 Koleth Insights
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Koleth-Software&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koleth-Software&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Koleth-Software&show_icons=true&theme=tokyonight" height="170" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Koleth-Software&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
