@@ -34,17 +34,9 @@ At **Koleth Software**, we believe in the power of automation to solve real-worl
 
 ---
 
-### 📈 Koleth Insights
-<p align="left">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Koleth-Software&show_icons=true&theme=tokyonight" height="170" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Koleth-Software&layout=compact&theme=tokyonight" height="170" />
-</p>
-
----
-
 ### 📫 Get in Touch
 - 🌐 **Website:** [koleth.net.tr](https://koleth.net.tr)
-- 💼 **Professional Inquiry:** [ben@veliongelen.com.tr](mailto:ben@veliongelen.com.tr)
+- 💼 **Professional Inquiry:** [info@koleth.net.tr](mailto:info@koleth.net.tr)
 - ⚡️ **Discord:** [Join the Community](https://rodyat.tech/dc)
 
 <p align="center">
