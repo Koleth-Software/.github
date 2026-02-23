@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,nextjs,python,nodejs,tailwind,mysql,aws,docker,git&theme=dark" />
+<img src="[https://skillicons.dev/icons?i=php,laravel,nextjs,python,nodejs,tailwind,mysql,aws,docker,git&theme=dark](https://avatars.githubusercontent.com/u/263490712?s=200&v=4)" />
 </p>
 
 <h1 align="center">🏢 Koleth Software</h1>
